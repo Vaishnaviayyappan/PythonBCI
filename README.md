@@ -225,7 +225,7 @@ Open a Pull Request
 This is a research and educational project. It is not a medical device and should not be used for any clinical or diagnostic purposes. Always consult with qualified professionals for medical advice.
 
 📧 Contact
-Vaishnavi A-vaishnaviayyappan16@gmail.com
+Vaishnavi A -vaishnaviayyappan16@gmail.com
 
 Project Link: https://github.com/yourusername/eeg-virtual-keyboard
 
