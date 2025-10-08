@@ -1,4 +1,4 @@
-# PythonBCI
+# EEG VIRTUAL KEYBOARD
 
 EEG Virtual Keyboard using Brain-Computer Interface
 A real-time Brain-Computer Interface (BCI) application that allows you to type using your brainwaves. This project uses Steady-State Visually Evoked Potentials (SSVEP) to detect which key you're looking at on a virtual keyboard.
