@@ -192,6 +192,9 @@ Flicker Frequencies Not Working
 Problem: Keys don't seem to flicker at the right rate.
 
 Solution: Ensure your monitor refresh rate is at least 60 Hz. Lower refresh rates can cause aliasing.
+📸 Screenshots
+<img width="999" height="784" alt="Screenshot 2025-10-08 135915" src="https://github.com/user-attachments/assets/e293ebb2-21b9-47d3-8d66-d2adeb028c75" />
+
 
 🔮 Future Enhancements
  User Calibration: Personalized training phase to improve accuracy
